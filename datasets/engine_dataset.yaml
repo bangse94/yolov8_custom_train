@@ -7,6 +7,8 @@ val: valid/
 test: test/
 
 # Classses
-names:
-  0: person
-  1: car
+names: [
+  person,
+  car,
+  bus,
+  truck]

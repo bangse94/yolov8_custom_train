@@ -1,0 +1,12 @@
+# COCO datasets(AI research team's dataset)
+
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+path: /data/YOLO
+train: train_yolov8/
+val: valid_yolov8/
+test: test/
+
+# Classses
+names:
+  0: person
+  1: car
