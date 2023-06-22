@@ -8,9 +8,9 @@
 
 
 # Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
-path: /data/YOLO
+path: /data/home/unicomnet/docker/labeling_data/new_dataset
 train: train_coco_2class/
-val: val_coco_2class/
+val: valid/
 test: test/
 
 # Classes
